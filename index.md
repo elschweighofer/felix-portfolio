@@ -1,6 +1,4 @@
-layout: page
-title: "portfolio"
-permalink: /
+lorem ipsum
 
 # portfolio page felix 
 # about
