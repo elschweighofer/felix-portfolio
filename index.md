@@ -1,6 +1,8 @@
+layout: page
+title: "portfolio"
+permalink: /
+
 # portfolio page felix 
-
-
 # about
 # portfolio
 ### impressum
