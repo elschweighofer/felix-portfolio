@@ -1,9 +1,7 @@
-lorem ipsum
-
-# portfolio page felix 
-# about
 # portfolio
-### impressum
+
+##### impressum
+
 Felix Schweighofer  
 Schlettergasse 18/1  
 1220 Wien  
