@@ -4,6 +4,7 @@
 ![Flashing Lights](/assets/pdfs/flashing_lights.pdf)
 ##### impressum
 
-Felix Schweighofer  
-Schlettergasse 18/1  
-1220 Wien  
+Felix Schweighofer
+Technische Universität Wien
+Karlsplatz 13
+1040 Wien
