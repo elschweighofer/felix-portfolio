@@ -1,0 +1,21 @@
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+h1 {
+    color: #FFFFFF;
+}
+p {
+    color: #FFFFFF;
+
+}
+iframe {
+    background-color: #000000;
+    color: #FFFFFF;
+    size: 0px 0;
+    height: 90%;
+    width:90%;
+    direction: ltr;
+    border: 0px;
+    }
